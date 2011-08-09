@@ -1,1 +1,15 @@
 My text editor for learning purposes
+
+09/08/2011
+Added menu items: New, Save, Save As, Exit, Cut, Copy, Paste, Select All
+
+
+
+TODO
+- File > Open
+- File > Recent files menu item
+- Edit > Find
+- Edit > Replace
+- Edit > Go to Line
+- Checks of it is ok to continue with action
+- Add toolbar
