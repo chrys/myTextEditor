@@ -16,3 +16,6 @@ SOURCES += main.cpp\
 HEADERS  += mytexteditor.h
 
 FORMS    += mytexteditor.ui
+
+OTHER_FILES += \
+    ../README

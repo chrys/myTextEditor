@@ -3,10 +3,11 @@ My text editor for learning purposes
 09/08/2011
 Added menu items: New, Save, Save As, Exit, Cut, Copy, Paste, Select All
 
-
+13/11/2011
+- File > Open
 
 TODO
-- File > Open
+
 - File > Recent files menu item
 - Edit > Find
 - Edit > Replace

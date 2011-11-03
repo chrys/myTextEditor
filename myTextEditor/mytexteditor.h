@@ -18,6 +18,7 @@ public:
 private slots:
     //menu options
     void newFile();
+    void open();
     bool save();
     bool saveAs();
     void cut();
@@ -34,6 +35,7 @@ private:
     QAction *pasteAction;
 
     void createMenus();
+    bool loadFile(const QString &fileName);
     void setCurrentFile(const QString &fileName);
     bool saveFile(const QString &fileName);
 
